@@ -1,0 +1,10 @@
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce Öğren.vbproj.AssemblyReference.cache
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce_Öğren.AnaSayfa.resources
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce_Öğren.Form1.resources
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce_Öğren.kullaniciekrani.resources
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce_Öğren.Resources.resources
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce Öğren.vbproj.GenerateResource.cache
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce Öğren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce Öğren.AssemblyInfoInputs.cache
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce Öğren.AssemblyInfo.vb
+C:\Users\bozku\source\repos\İngilizce Öğren\İngilizce Öğren\obj\Release\net6.0-windows\İngilizce Öğren.vbproj.CoreCompileInputs.cache

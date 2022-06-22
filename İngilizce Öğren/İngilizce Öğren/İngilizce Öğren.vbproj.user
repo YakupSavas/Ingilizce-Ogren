@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AnaSayfa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="konular.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kullaniciekrani.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sifreunuttum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sifreyenile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="testler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
